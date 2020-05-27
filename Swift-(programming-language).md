@@ -1,5 +1,7 @@
 # Swift (programming language)
 
+[go back](https://github.com/seanpm2001/WacOS/wiki)
+
 ![Image](https://upload.wikimedia.org/wikipedia/commons/2/20/Swift_logo_with_text.svg "icon")
 
 The icon for swift programming language [view it here](https://upload.wikimedia.org/wikipedia/commons/2/20/Swift_logo_with_text.svg)
@@ -20,4 +22,4 @@ Swift is used in all modern Apple products, including MacOS, iOS, iPadOS, TvOS, 
 
 _This article on programming languages is a stub. You can help by expanding it!_
 
-# Page version: 1 (May 27th 2020 at 2:14 pm)
+# Page version: 2 (May 27th 2020 at 2:17 pm)
