@@ -1,9 +1,5 @@
 # Image Credits (Apple inc)
 
-_Page version: 2 (May 27th 2020 at 2:16 pm)_
-
-[go back](https://github.com/seanpm2001/WacOS/wiki)
-
 _This page hosts the current version (version 2) of the graphical credits file. I have to give credit to Apple to use these images in the project._
 
 **Article starts below this line:**
