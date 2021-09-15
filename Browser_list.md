@@ -45,7 +45,14 @@ Internet Explorer for Mac
 
 Opera
 
+Brave
+
+Comodo Icedragon
+
+Comodo Dragon
+
 Other/unlisted
+
 ## Sources
 
 More sources coming soon, although right now, most information comes from previous Wiki articles, along with past knowledge.
@@ -54,10 +61,12 @@ More sources coming soon, although right now, most information comes from previo
 
 ## Article info
 
-**Written on:** `Wednesday, 2021 September 15th at 2:38 pm)`
+**Written on:** `Wednesday, 2021 September 15th at 2:48 pm)`
 
 **File format:** `Markdown document (*.md *.mkd *.markdown)`
 
-**Article version:** `1 (Wednesday, 2021 September 15th at 2:38 pm)`
+**Article version:** `2 (Wednesday, 2021 September 15th at 2:48 pm)`
+
+**First version:** `1 (Wednesday, 2021 September 15th at 2:45 pm, published prematurely by mistake)`
 
 ***
