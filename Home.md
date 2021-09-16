@@ -55,6 +55,11 @@ This Wiki is a glossary of Apple terms, alongside info on how it aligns with Wac
 
 [Steve Jobs (link coming soon)](https://github.com/seanpm2001/WacOS/wiki/)
 
+[Steve Wozniak (link coming soon)](https://github.com/seanpm2001/WacOS/wiki/)
+
+[Dennis Ritchie (link coming soon)](https://github.com/seanpm2001/WacOS/wiki/)
+
+[Seanpm2001](https://github.com/seanpm2001/) [Seanpm2001 (link coming soon)](https://github.com/seanpm2001/WacOS/wiki/)
 
 ### Special Extras
 
@@ -72,11 +77,16 @@ This Wiki is a glossary of Apple terms, alongside info on how it aligns with Wac
 
 WacOS Equivalent: currently unavailable
 
+### Web browsers
+
+[Cloud support](https://github.com/seanpm2001/WacOS/wiki/Cloud/)
 ### File system and structure
 
 [Home (directory)](https://github.com/seanpm2001/WacOS/wiki/Home(Directory))
 
 [Default File Systems in WacOS](https://github.com/seanpm2001/WacOS/wiki/Default_File_Systems/)
+
+[Cloud support](https://github.com/seanpm2001/WacOS/wiki/Cloud/)
 
 ### Credits
 
@@ -84,4 +94,16 @@ WacOS Equivalent: currently unavailable
 
 _This page is incomplete_
 
-**Wiki version: 2 (May 27th 2020 at 2:26 pm)**
+***
+
+## Article info
+
+**Wiki homepage version: 4** `(Wednesday, 2021 September 15th at 5:18 pm)`
+
+**Wiki homepage version 3 release date:** `Wednesday, 2021 September 15th at 5:10 pm) accidentally published early.`
+
+**First version:** `1 ()`
+
+**File type:** `Markdown document (*.md *.mkd *.markdown)`
+
+***
