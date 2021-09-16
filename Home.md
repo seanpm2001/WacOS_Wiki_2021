@@ -21,6 +21,8 @@ This Wiki is a glossary of Apple terms, alongside info on how it aligns with Wac
 
 [Swift (programming language)](https://github.com/seanpm2001/WacOS/wiki/Swift-(programming-language))
 
+List incomplete
+
 ## Categories
 
 ### General
@@ -71,15 +73,52 @@ This Wiki is a glossary of Apple terms, alongside info on how it aligns with Wac
 
 [AppleScript](https://github.com/seanpm2001/WacOS/wiki/AppleScript)
 
-### Features & Applications
+### Applications
 
 [Finder (Application)](https://github.com/seanpm2001/WacOS/wiki/Finder-(application))
 
 WacOS Equivalent: currently unavailable
 
+### Features
+
+DMG
+
+IPA
+
+Linux
+
+XNU
+
+File systems
+
+NOT LINKED
+
+### Subsystems
+
+[BaSYS](https://github.com/seanpm2001/WacOS/wiki/BaSYS/) - A subsystem for Classic Mac OS
+
 ### Web browsers
 
-[Cloud support](https://github.com/seanpm2001/WacOS/wiki/Cloud/)
+[Cyberdog](https://github.com/seanpm2001/WacOS/wiki/Cyberdog/)
+
+[OpenCyberdog](https://github.com/seanpm2001/WacOS/wiki/OpenCyberdog/)
+
+[Safari](https://github.com/seanpm2001/WacOS/wiki/Safari/)
+
+[Savannah](https://github.com/seanpm2001/WacOS/wiki/Savannah/)
+
+[Firefox](https://github.com/seanpm2001/WacOS/wiki/Firefox/)
+
+[Internet Explorer for Mac](https://github.com/seanpm2001/WacOS/wiki/Internet_Explorer_for_Mac/)
+
+* [Full browser list]((https://github.com/seanpm2001/WacOS/wiki/Browser_list/)
+
+### Standards to follow
+
+[Acid1](https://github.com/seanpm2001/WacOS/wiki/acid1)
+
+[Computing longevity](https://github.com/Computing-longevity) [Wiki link unavailable](https://github.com/seanpm2001/WacOS/wiki/)
+
 ### File system and structure
 
 [Home (directory)](https://github.com/seanpm2001/WacOS/wiki/Home(Directory))
@@ -88,22 +127,38 @@ WacOS Equivalent: currently unavailable
 
 [Cloud support](https://github.com/seanpm2001/WacOS/wiki/Cloud/)
 
+[Kernel](https://github.com/seanpm2001/WacOS/wiki/Kernel/)
+
+[Languages used](https://github.com/seanpm2001/WacOS/wiki/Languages_used)
+
+[Snapshots version control system](https://github.com/seanpm2001/WacOS/wiki/Snapshots-(version-control))
+
+[Project language file](https://github.com/seanpm2001/WacOS/wiki/Project_Language_File/)
+
+### Wiki Meta
+
+[_Footer](https://github.com/seanpm2001/WacOS/wiki/_Footer)
+
+[_Sidebar](https://github.com/seanpm2001/WacOS/wiki/_Sidebar)
+
 ### Credits
 
 [Image Credits (Apple)](https://github.com/seanpm2001/WacOS/wiki/ImageCredits(Apple))
-
-_This page is incomplete_
 
 ***
 
 ## Article info
 
-**Wiki homepage version: 4** `(Wednesday, 2021 September 15th at 5:18 pm)`
+**Wiki homepage version: 5** `(Wednesday, 2021 September 15th at 5:27 pm)`
 
 **Wiki homepage version 3 release date:** `Wednesday, 2021 September 15th at 5:10 pm) accidentally published early.`
 
-**First version:** `1 ()`
+**Wiki homepage version 4 release date:** `Wednesday, 2021 September 15th at 5:16 pm) accidentally published early. I am now going to use Gedit instead, I can't keep risking it, I hate this GitHub shortcut`
+
+**First version:** `1 (2020 May 27th at 1:59 pm)`
 
 **File type:** `Markdown document (*.md *.mkd *.markdown)`
+
+**Language:** `English (US)`
 
 ***
