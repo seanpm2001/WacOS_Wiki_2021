@@ -1,0 +1,16 @@
+markdown
+apple
+wiki
+gplv3
+archive
+operating-system
+md
+txt
+gpl3
+2021
+wacos
+wiki-archive
+project-wiki
+wacos-wiki
+wacos-wiki-2021
+wiki-2021
